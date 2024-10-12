@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+langchain-google-genai
+pinecone
+langchain_community
+pymupdf
